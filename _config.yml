@@ -5,6 +5,8 @@ plugins:
 name: Ed Flynn
 description: A website about myself
 
+  image: /tiles/Dauntless at GDSF.PNG
+
 #
 # Flags below are optional
 #
