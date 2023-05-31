@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi, I am Edward Flynn. I'm a Computer Science student and an Engineering enthusiast. When not working or revsing for my upcoming exama, I am contributing and working on various hobbies. This website shows a broad selection of the type of things I get up too and have been working/have worked on.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[eddie26068@gmail.com](mailto:eddie26068@gmail.com)
